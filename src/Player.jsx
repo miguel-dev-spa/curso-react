@@ -13,7 +13,7 @@ export const Player = ({team}) => {
         <h3>{ dorsal }</h3>
         <p>{ team }</p>
         <ul>
-
+          <li></li>
         </ul>
     </>
   )
