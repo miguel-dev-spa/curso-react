@@ -5,7 +5,7 @@ export const Goles = () => {
 
     return (  
         <>
-            <h2>Goles</h2>
+            <h2>Goles marcados</h2>
             <button onClick={marcaGol}>Sumar goles</button>
         </>
     );
